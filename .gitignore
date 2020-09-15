@@ -1,0 +1,13 @@
+*.pyc
+build
+dist
+*egg-info
+.DS_Store
+sample-data
+*.gz
+!*.jl.gz
+.tags
+!/.dockerignore
+!/.gitignore
+*.ipynb
+args.dill
